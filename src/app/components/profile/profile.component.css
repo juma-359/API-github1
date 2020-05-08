@@ -1,0 +1,22 @@
+.cone{
+    padding-top: 50px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+    width: 100%;
+    text-align: center;
+    
+}
+.container{
+   background-color: rgb(168, 183, 216);
+   height: 100%;
+}
+ h1{
+     text-align: center;
+ }
+p{
+    font-size: 200%;
+    text-align: center;
+}
+.gidi{
+    color: whitesmoke;
+}
